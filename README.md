@@ -3,5 +3,5 @@
 ## Run this command
 
 ``` 
-curl -O https://raw.githubusercontent.com/luucasfzs/ubunto-20-laravel/master/installation_script_laravel.sh && sh installation_script_laravel.sh 
+curl -O https://raw.githubusercontent.com/matheusgabardo/ubunto-20-html/master/installation_script_html.sh && sh installation_script_html.sh 
 ```
